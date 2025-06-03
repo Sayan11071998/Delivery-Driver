@@ -23,6 +23,9 @@
 - Enhanced level design abilities with a focus on pacing, flow, and challenge.
 - Gained confidence in core scripting areas like `OnTriggerEnter2D`, `OnCollisionEnter2D`, and smooth camera scripting.
 
+## Play Link
+https://sayannandi.itch.io/delivery-driver
+
 [![Watch the video](https://img.youtube.com/vi/6VfjsELH2eg/maxresdefault.jpg)](https://youtu.be/6VfjsELH2eg)
 ### [Gameplay Video](https://youtu.be/6VfjsELH2eg)
 
