@@ -1,16 +1,30 @@
-# ***🚗 Delivery Driver – A Fast-Paced 2D Arcade Game! 🎮***
+# 🚗 Delivery Driver – A Fast-Paced 2D Arcade Game! 🎮
 
-## *🌟 Highlights:*
-- ***🚘 Smooth Car Controls:*** Implemented precise movement using Rigidbody2D (Dynamic mode, zero gravity) for responsive driving mechanics.
-- ***🏙️ Challenging Environment:*** Designed intricate city roads surrounded by blocks, requiring strategic navigation.
-- ***🎯 Goal-Oriented Gameplay:*** Deliver all packages while maneuvering through maze-like streets—can you beat the challenge?
-- ***🌆 Handcrafted Levels:*** Built detailed city environments with carefully placed obstacles and delivery spots.
-- ***🎥 Dynamic Camera System:*** Integrated a smooth camera follow for immersive gameplay.
+## Highlights
 
-✨ Key Learnings:
-- Strengthened my Unity & C# skills, especially in custom gameplay mechanics.
-- Improved level design techniques for engaging challenges.
-- Mastered scripting concepts like camera follow, OnTriggerEnter2D, and OnCollisionEnter2D.
+- **Smooth Car Controls**  
+  Implemented responsive driving using Rigidbody2D in Dynamic mode with zero gravity for tight, arcade-style car movement.
+
+- **Challenging Environment**  
+  Designed complex city streets surrounded by blocks, encouraging strategic driving and route planning.
+
+- **Goal-Oriented Gameplay**  
+  Players must deliver all packages while navigating maze-like roads—each delivery tests timing and control.
+
+- **Handcrafted Levels**  
+  Built detailed urban environments with intentional obstacle placement and delivery destinations.
+
+- **Dynamic Camera System**  
+  Developed a smooth camera-follow system that enhances immersion and gameplay flow.
+
+## Key Learnings
+
+- Strengthened Unity and C# development skills through hands-on gameplay system design.
+- Enhanced level design abilities with a focus on pacing, flow, and challenge.
+- Gained confidence in core scripting areas like `OnTriggerEnter2D`, `OnCollisionEnter2D`, and smooth camera scripting.
+
+[![Watch the video](https://img.youtube.com/vi/6VfjsELH2eg/maxresdefault.jpg)](https://youtu.be/6VfjsELH2eg)
+### [Gameplay Video](https://youtu.be/6VfjsELH2eg)
 
 ![Image](https://github.com/user-attachments/assets/826e9c89-8a40-48e7-9b3c-870250899578)
 
